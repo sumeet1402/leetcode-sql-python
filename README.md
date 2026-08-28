@@ -12,3 +12,11 @@ My LeetCode problem-solving journey solutions, approaches, and practice across S
 ## Goal
 
 Build strong problem-solving skills through consistent LeetCode practice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/sumeet1402/leetcode-sql-python/tree/master/0197-rising-temperature) |
+<!---LeetCode Topics End-->
