@@ -19,4 +19,5 @@ Build strong problem-solving skills through consistent LeetCode practice.
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/sumeet1402/leetcode-sql-python/tree/master/0197-rising-temperature) |
+| [1757-recyclable-and-low-fat-products](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
